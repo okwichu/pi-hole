@@ -15,5 +15,61 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
+# Social
+0.0.0.0 pinterest.com
+0.0.0.0 youtube.com
+0.0.0.0 msedge.net
+0.0.0.0 teams.microsoft.com
+0.0.0.0 tumblr.com
+0.0.0.0 skype.com
+0.0.0.0 facebook.com
+0.0.0.0 fbcdn.net
+0.0.0.0 twitter.com
+0.0.0.0 reddit.com
+0.0.0.0 instagram.com
+0.0.0.0 tiktok.com
+0.0.0.0 giphy.com
+0.0.0.0 band.us
+0.0.0.0 blogspot.com
+
+
+# Video Games
+0.0.0.0 medal.tv
+0.0.0.0 discord.com
+0.0.0.0 discordapp.com
+0.0.0.0 discord.gg
 0.0.0.0 twitch.tv
 0.0.0.0 m.twitch.tv
+0.0.0.0 destinyitemmanager.com
+0.0.0.0 guardian.report
+0.0.0.0 crucible.report
+0.0.0.0 trials.report
+0.0.0.0 steampowered.com
+0.0.0.0 origin.com
+0.0.0.0 nintendo.com
+0.0.0.0 xboxlive.com
+0.0.0.0 gamepass.com
+0.0.0.0 epicgames.net
+0.0.0.0 epicgames.com
+0.0.0.0 ea.com
+
+
+# Google
+0.0.0.0 people-pa.googleapis.com
+0.0.0.0 chat.google.com
+0.0.0.0 clients6.google.com
+0.0.0.0 play.google.com
+0.0.0.0 play.googleapis.com
+0.0.0.0 clients4.google.com
+0.0.0.0 clients6.google.com
+0.0.0.0 chatenabled.mail.google.com
+0.0.0.0 client-channel.google.com
+0.0.0.0 talkx.l.google.com
+0.0.0.0 talk.l.google.com
+0.0.0.0 talkgadget.google.com
+0.0.0.0 hangouts.google.com
+0.0.0.0 mtalk.google.com
+0.0.0.0 talk.google.com
+
+# BS
+0.0.0.0 advertising.com
