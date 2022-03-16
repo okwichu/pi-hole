@@ -35,6 +35,7 @@ ff02::3 ip6-allhosts
 
 # Video Games
 0.0.0.0 medal.tv
+0.0.0.0 cdn.medal.tv
 0.0.0.0 discord.com
 0.0.0.0 discordapp.com
 0.0.0.0 discord.gg
