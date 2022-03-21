@@ -31,6 +31,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 giphy.com
 0.0.0.0 band.us
 0.0.0.0 blogspot.com
+0.0.0.0 koreaboo.com
 
 
 # Video Games
@@ -72,5 +73,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 mtalk.google.com
 0.0.0.0 talk.google.com
 
-# BS
+# Weird advertising BS
 0.0.0.0 advertising.com
+0.0.0.0 propu.sh
+0.0.0.0 optyruntchan.com
+0.0.0.0 cdn.itskiddoan.club
+0.0.0.0 diromalxx.com
