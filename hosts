@@ -59,6 +59,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 epicgames.com
 0.0.0.0 ea.com
 0.0.0.0 bungie.net
+0.0.0.0 www.bungie.net
+0.0.0.0 catalog.gamepass.com
+0.0.0.0 api1.origin.com
+0.0.0.0 gateway.discord.gg
 
 
 # Google
