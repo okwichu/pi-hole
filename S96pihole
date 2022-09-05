@@ -1,0 +1,29 @@
+#!/bin/sh
+#
+# Hijack DNS to the PiHole https://github.com/okwichu/pi-hole
+#
+
+case "$1" in
+  start)
+	printf "Hijacking DNS to PiHole: "
+
+	iptables -t nat -A POSTROUTING -s 192.168.1.0/24 -j MASQUERADE
+	iptables -t nat -I PREROUTING -i br2 -p tcp --dport 53 -j DNAT --to 192.168.1.25:53
+	iptables -t nat -I PREROUTING -i br2 -p udp --dport 53 -j DNAT --to 192.168.1.25:53
+
+	[ $? = 0 ] && echo "OK" || echo "FAIL"
+	;;
+  stop)
+	printf "Stopping network: "
+	[ $? = 0 ] && echo "OK" || echo "FAIL"
+	;;
+  restart|reload)
+	"$0" stop
+	"$0" start
+	;;
+  *)
+	echo "Usage: $0 {start|stop|restart}"
+	exit 1
+esac
+
+exit $?
