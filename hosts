@@ -27,14 +27,21 @@ ff02::3 ip6-allhosts
 0.0.0.0 twitter.com
 0.0.0.0 reddit.com
 0.0.0.0 instagram.com
+0.0.0.0 gateway.instagram.com
 0.0.0.0 tiktok.com
 0.0.0.0 giphy.com
 0.0.0.0 band.us
 0.0.0.0 blogspot.com
+0.0.0.0 koreaboo.com
+0.0.0.0 vimeo.com
+0.0.0.0 www.canva.com
+0.0.0.0 canva.com
+0.0.0.0 graph.facebook.com
 
 
 # Video Games
 0.0.0.0 medal.tv
+0.0.0.0 cdn.medal.tv
 0.0.0.0 discord.com
 0.0.0.0 discordapp.com
 0.0.0.0 discord.gg
@@ -52,6 +59,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 epicgames.net
 0.0.0.0 epicgames.com
 0.0.0.0 ea.com
+0.0.0.0 bungie.net
+0.0.0.0 www.bungie.net
+0.0.0.0 catalog.gamepass.com
+0.0.0.0 api1.origin.com
+0.0.0.0 gateway.discord.gg
 
 
 # Google
@@ -75,3 +87,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 advertising.com
 
 
+# Weird advertising BS
+0.0.0.0 advertising.com
+0.0.0.0 propu.sh
+0.0.0.0 optyruntchan.com
+0.0.0.0 cdn.itskiddoan.club
+0.0.0.0 diromalxx.com
