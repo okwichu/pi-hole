@@ -64,6 +64,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 catalog.gamepass.com
 0.0.0.0 api1.origin.com
 0.0.0.0 gateway.discord.gg
+0.0.0.0 cdn.nintendo.net
+0.0.0.0 nintendo.net
+0.0.0.0 overwolf.com
+0.0.0.0 updates.overwolf.com
+0.0.0.0 userconfigs.overwolf.com
 
 
 # Google
